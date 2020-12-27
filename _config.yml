@@ -14,7 +14,7 @@ baseurl: "/neumorphism"
 username: Soham
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Why a hardware person guy trying out a website or showing have any interest for blogging or web-dev as a whole? 
+typing_text: Why a hardware guy trying out a web template or showing any interest for blogging or web-dev as a whole? 
 # email: Your E-Mail address for the email button.
 email: sohammondal39@gmail.com
 # For every social button you want to display, set your username or userid
@@ -32,9 +32,9 @@ twitter_username:
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-about_me_title: Musings
+about_me_title: Musings 🤔
 # about_me_description: This will be displayed under the title.
-about_me_description: Maybe because I am having plenty of time in my hands besides my office activity? ... Maybe. But I just found out very interesting thing and i.e., A novice like me who just learnt HTML, and some tidbits of JS & CSS in undergrad can take up any any templates and build and nice websites. Even if you don't do this way you can build them in Wix or Webflow and build super advanced websites with parallex, 3D animations, neumorphism blah blah blah... And if you purchase a custom domain name, most people will fail to identify that you have not written code for it. Ok all things said, there's one thing I want to adopt from software community. This open-source community has helped software to merge on fast prototyping, templating and unified packaging which is hard to come by in hardware eco-system. But again maybe I should say hardware is hard. <p style="color:blue;">Think the Design , Design the thinking.</p> Both are hard in case of hardware and takes much time to culminate than software. But adopting a unified framework starting from specs to desigining them (how to) maybe the way to go. It may go onto become mature like software community and open source silicon, nice documentation, packages , frameworks may emerge. All things said I have a keen interest in artistic design and blogging beside my hardware work where I go down to the level of 0's and 1's and play with shell scripts, log files and waveforms.    
+about_me_description: Maybe,I am having plenty of time in my hands besides my office activity? ... Maybe. But I just found out very interesting thing and i.e., A novice like me who just learnt HTML, and some tidbits of JS & CSS in undergrad can take up any any templates and build and nice websites. Even if you don't do this way you can build them in Wix or Webflow and build super advanced websites with parallex, 3D animations, neumorphism blah blah blah... And if you purchase a custom domain name, most people will fail to identify that you have not written code for it. Ok all things said, there's one thing I want to adopt from software community. This open-source community has helped software to merge on fast prototyping, templating and unified packaging which is hard to come by in hardware eco-system. But again maybe I should say hardware is hard. <p style="color:blue;">Think the Design , Design the thinking.</p> Both are hard in case of hardware and takes much time to culminate than software. But adopting a unified framework starting from specs to desigining them (how to) maybe the way to go. It may go onto become mature like software community and open source silicon, nice documentation, packages , frameworks may emerge. All things said I have a keen interest in artistic design and blogging beside my hardware work where I go down to the level of 0's and 1's and play with shell scripts, log files and waveforms.    
 
 # SKILLS SECTION
 # show_skills_card:
