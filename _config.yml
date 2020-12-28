@@ -20,10 +20,10 @@ email: sohammondal39@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: Soham-coder
+github_username: 
 codepen_username: 
 dev_username: 
-linkedin_username: soham-mondal-b26071100
+linkedin_username: 
 twitter_username: 
 
 # ABOUT ME SECTION
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: Musings 🤔
 # about_me_description: This will be displayed under the title.
-about_me_description: <p>Maybe, I am having plenty of time in my hands besides my office activity? ... Maybe. But I just found one very intriguing fact and that is hard to ignore. A novice like me who just learnt HTML, and some tidbits of JS & CSS in undergrad can go onto take up any templates and build nice websites. Even if you don't do the hard way you can always build them in Wix or Webflow and build super advanced websites with parallex, 3D animations, neumorphism blah blah blah... Ok all things said, there's one thing that is making it all possible and that is the vast number of resources and all of them openly available to all of us. This open-source community has helped software to merge on fast prototyping, templating and unified packaging which is hard to come by in hardware eco-system. But maybe hardware is hard ?</p> <p style="color:blue;">Think the Design , Design the thinking.</p> Both are comparatively harder in case of hardware where there is not much abstraction of languages and power to the programmer as a whole . Software languages don't have the concept of time and that makes a whole lot of difference. Hardware takes much time to culminate than software. But adopting a unified framework starting from specs to desigining them (how to) may make a lot more difference. It may go onto become mature like that of software community and open source silicon, nice documentation, packages , frameworks may not be very distant in the near future. All things said, I have a keen interest in artistic design and blogging beside my verification work, where I go down to the level of 0's and 1's and play with shell scripts, log files and waveforms.    
+about_me_description: <p>Maybe, I had plenty of time in my hands besides my office activity? ... Maybe. But I just found one very intriguing fact and that is hard to ignore. A novice like me who just learnt HTML, and some tidbits of JS & CSS in undergrad can go onto take up any templates and build nice websites. Even if you don't do the hard way you can always build them in Wix or Webflow and build super advanced websites with parallex, 3D animations, neumorphism blah blah blah... Ok all things said, there's one thing that is making it all possible and that is the vast number of resources and all of them openly available to all of us. This open-source community has helped software to merge on fast prototyping, templating and unified packaging which is hard to come by in hardware eco-system. But maybe hardware is hard ?</p> <p style="color:blue;">Think the Design , Design the thinking.</p> Both are comparatively harder in case of hardware where there is not much abstraction of languages and power to the programmer as a whole . Software languages don't have the concept of time and that makes a whole lot of difference. Hardware takes much time to culminate than software. But adopting a unified framework starting from specs to desigining them (how to) may make a lot more difference. It may go onto become mature like that of software community and open source silicon, nice documentation, packages , frameworks may not be very distant in the near future. All things said, I have a keen interest in artistic design and blogging beside my verification work, where I go down to the level of 0's and 1's and play with shell scripts, log files and waveforms.    
 
 # SKILLS SECTION
 # show_skills_card:
